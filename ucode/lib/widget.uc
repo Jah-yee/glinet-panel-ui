@@ -355,7 +355,7 @@ export function card_opacity() {
 		group_opa = int(pct * GROUP_OPA_MAX / 100);
 
 	return group_opa;
-}
+});
 
 /**
  * group_new - the inset rounded surface a list of rows sits on
